@@ -68,7 +68,20 @@ button {
   margin-inline:auto;
 }
 h1 {
-  font-size: 400%;
+  font-size: 500%;
+}
+h2 {
+  font-size: 300%;
+  text-indent:0em;
+}
+h3 {
+  text-indent:.25em;
+  
+  font-size: 200%;
+}
+p {
+  text-indent: 1em;
+  font-size: 125%;
 }
 .projects {
   display: grid;
