@@ -67,3 +67,21 @@ button {
   grid-column: 1/-1;
   margin-inline:auto;
 }
+h1 {
+  font-size: 400%;
+}
+.projects {
+  display: grid;
+  grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));
+  gap:2em;
+}
+article {
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-row: span 3;
+  gap: 0em;
+  
+  h2 {
+    margin: 0;
+  }
+}
