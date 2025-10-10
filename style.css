@@ -19,5 +19,10 @@ nav {
     text-align:center;
     padding:.5em;
     margin-bottom:.5em;
+    jfkdj {
+      border-bottom-width:4px;
+      margin-bottom:.1em
+    }
   }
+  
 }
