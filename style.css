@@ -19,10 +19,16 @@ nav {
     text-align:center;
     padding:.5em;
     margin-bottom:.5em;
-    jfkdj {
-      border-bottom-width:4px;
-      margin-bottom:.1em
-    }
+    
+  }
+  jfkdj {
+      display:inherit;
+      flex:inherit;
+      border-bottom-width:6px;
+      border-bottom-style:inherit;
+      border-bottom-color:inherit;
+      margin-bottom:0em;
+      padding:-.2em;
   }
   
 }
