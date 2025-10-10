@@ -2,5 +2,22 @@ body {
   /* Set line height to 1.5 times the font size
 	   and use the OS’s UI font as the website font
 	 */
+  max-width: 45ch;
   font: 100%/1.5 system-ui;
+  margin-inline:auto;
+  padding:5ch;
+}
+nav {
+  display: flex;
+  border-bottom-width:1px;
+  border-bottom-style:solid;
+  border-bottom-color:oklch(80% 3% 200);
+  a {
+    flex:1;
+    text-decoration:none;
+    color:inherit;
+    text-align:center;
+    padding:.5em;
+    margin-bottom:.5em;
+  }
 }
