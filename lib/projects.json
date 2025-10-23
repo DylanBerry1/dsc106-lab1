@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Gamer Stack",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description":"Created a fully functioning stack data structure in C++ with all the bells and whistles.",
+    "year": "2024"
+  },
+  {
+    "title": "Labs 1, 2, 3, and 4",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2025",
+    "description": "Created this very website."
+  },
+  {
+    "title": "Dice incorporated",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2021",
+    "description":"Made a game w/ a friend."
+  },
+  {
+    "title": "DSC80 TF-IDF example project",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2024",
+    "description":"basically made an llm. give me money please."
+  },
+  {
+    "title": "I HATE SPOTIFY",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2024",
+    "description":"I got really fed up w/ spotify so I created my own software that automatically found, entered, and played mp3 files on my system. You would give it a file path to a folder, and it would load every folder and song in there, with each folder being its own playlist"
+  },
+  {
+    "title": "Fishing man simulator",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2022",
+    "description": "A game where fish scrolled from left to right on the screen. Unfinished."
+  },
+  {
+    "title": "Molestias laudantium corrupti numquam?",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2024",
+    "description": "Sint soluta aspernatur molestiae aperiam reiciendis expedita aliquid assumenda. Quod adipisci asperiores sit magnam harum minima velit veniam doloribus quasi maxime recusandae esse eaque placeat reprehenderit deleniti, beatae id eligendi."
+  },
+  {
+    "title": "Text Game",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2016",
+    "description": "I mustve made 100 of these when I was younger. I would take a python script and do branching if/else statements to create a game, where your choices were to basically kill monsters. I should make another one of those, but knowing what I know now and on the web. That would be cool."
+  },
+  {
+    "title": "Unde omnis nihil necessitatibus.",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2019",
+    "description": "Exercitationem, repellendus voluptatibus suscipit saepe nostrum eligendi sapiente doloremque, explicabo iure error delectus dolore est voluptatem id excepturi assumenda adipisci et maiores atque molestias? Dolores nihil temporibus mollitia in magnam."
+  },
+  {
+    "title": "Quas assumenda ipsum aliquid.",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2018",
+    "description": "Atque velit sit totam recusandae. Vel animi excepturi dolorem veritatis itaque officiis delectus laboriosam repellendus asperiores possimus, consequatur facilis quaerat eius placeat dicta odit fugiat dignissimos accusamus ullam, velit molestiae?"
+  },
+  {
+    "title": "Obcaecati laboriosam aliquam cum!",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2020",
+    "description": "Ducimus voluptatibus deserunt magnam voluptatem unde hic porro laboriosam optio velit quos! Esse perferendis facilis sint eum mollitia velit ex, inventore voluptate fugiat saepe doloremque harum deleniti nam excepturi voluptatibus."
+  },
+  {
+    "title": "SORRY I GOT TIRED AND WANTED TO SUBMIT",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "year": "2021",
+    "description": "Eligendi nesciunt ab dolore consequatur animi error deleniti tempore ea vero, ipsam et cumque dicta odit fugit aspernatur harum iste soluta quod corrupti voluptatibus obcaecati. Aliquam sapiente porro esse delectus."
+  }
+]
