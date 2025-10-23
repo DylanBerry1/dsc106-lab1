@@ -36,10 +36,10 @@
     "description": "A game where fish scrolled from left to right on the screen. Unfinished."
   },
   {
-    "title": "Molestias laudantium corrupti numquam?",
+    "title": "Synthesizer in Processing",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "year": "2024",
-    "description": "Sint soluta aspernatur molestiae aperiam reiciendis expedita aliquid assumenda. Quod adipisci asperiores sit magnam harum minima velit veniam doloribus quasi maxime recusandae esse eaque placeat reprehenderit deleniti, beatae id eligendi."
+    "description": "Little thing I had to for AP CSP, where we had to make the computer make noises based on what letter on our keyboard we pressed."
   },
   {
     "title": "Text Game",
@@ -48,27 +48,27 @@
     "description": "I mustve made 100 of these when I was younger. I would take a python script and do branching if/else statements to create a game, where your choices were to basically kill monsters. I should make another one of those, but knowing what I know now and on the web. That would be cool."
   },
   {
-    "title": "Unde omnis nihil necessitatibus.",
+    "title": "DSC 20 Final Project",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "year": "2019",
-    "description": "Exercitationem, repellendus voluptatibus suscipit saepe nostrum eligendi sapiente doloremque, explicabo iure error delectus dolore est voluptatem id excepturi assumenda adipisci et maiores atque molestias? Dolores nihil temporibus mollitia in magnam."
+    "year": "2024",
+    "description": "Did a very large computer vision project for the final project for DSC 20. very cool."
   },
   {
-    "title": "Quas assumenda ipsum aliquid.",
+    "title": "Cogs 9 final project",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "year": "2018",
-    "description": "Atque velit sit totam recusandae. Vel animi excepturi dolorem veritatis itaque officiis delectus laboriosam repellendus asperiores possimus, consequatur facilis quaerat eius placeat dicta odit fugiat dignissimos accusamus ullam, velit molestiae?"
+    "year": "2025",
+    "description": "Did a cool analysis of a kaggle data set involving people's knowledge of food of the world."
   },
   {
-    "title": "Obcaecati laboriosam aliquam cum!",
+    "title": "Text processor for visual novel",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "year": "2020",
-    "description": "Ducimus voluptatibus deserunt magnam voluptatem unde hic porro laboriosam optio velit quos! Esse perferendis facilis sint eum mollitia velit ex, inventore voluptate fugiat saepe doloremque harum deleniti nam excepturi voluptatibus."
+    "year": "2025",
+    "description": "Im working on a game, writer handed me a 125 page script and wanted me to make a visual novel segment about it. I wasn't formatting that massive json file by hand, so I set up a script to do most of it for me. Pretty cool."
   },
   {
-    "title": "SORRY I GOT TIRED AND WANTED TO SUBMIT",
+    "title": "My Private Fighting Game Notes",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
     "year": "2021",
-    "description": "Eligendi nesciunt ab dolore consequatur animi error deleniti tempore ea vero, ipsam et cumque dicta odit fugit aspernatur harum iste soluta quod corrupti voluptatibus obcaecati. Aliquam sapiente porro esse delectus."
+    "description": "I have notes on every single character in Under Night In Birth II [Sys-celes], which is 26 that arent mine. Lots of effort and learning about every character has helped me improve greatly, and will only help more."
   }
 ]
