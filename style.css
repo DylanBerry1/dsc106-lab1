@@ -110,3 +110,52 @@ article {
   right:1em;
   font-family:inherit;
 }
+#projects-pie-plot {
+  max-width: 20em;
+  margin-block: 2em;
+
+  overflow: visible;
+}
+
+.legend {
+  display:grid;
+  grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+  /* background-color:darkslategray; */
+  border-color:var(--border-color);
+  border-radius:10%;
+  list-style-type: none;
+  border-bottom-width:2px;
+  border-style:solid
+}
+.swatch {
+  aspect-ratio:1/1;
+  display:inline-block;
+  align-items:center;
+  list-style-type:disc;
+  color: var(--color)
+}
+
+.container {
+  display:flex;
+  flex:1;
+  gap:1em
+}
+
+&:has(path:hover) {
+  path:not(:hover) {
+    opacity: 0.5;
+  }
+}
+
+path {
+  transition: 300ms;
+  cursor:pointer;
+}
+
+.selected {
+  --color: oklch(60% 45% 0) !important;
+
+  &:is(path) {
+    fill: var(--color);
+  }
+}
