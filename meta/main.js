@@ -19,7 +19,7 @@ async function loadData() {
 let data = await loadData();
 
 let commits = processCommits(data);
-
+commits.sort((a, b) => a.datetime - b.datetime)
 function processCommits(data) {
   return d3
     .groups(data, (d) => d.commit)
