@@ -16,7 +16,9 @@ let pages = [
   { url: 'projects/', title: 'Projects' },
   { url: 'resume/', title: 'Resume'},
   { url: 'contacts/', title: 'Contacts'},
-  { url: 'https://github.com/DylanBerry1', title: 'Github'}
+  { url: 'meta/', title: 'Meta'},
+  { url: 'https://github.com/DylanBerry1', title: 'Github'},
+  
 ];
 
 let nav = document.createElement('nav');
@@ -34,8 +36,7 @@ for (let p of pages) {
     a.href = url;
     a.textContent = title;
     
-    console.log(a.host, a.pathname)
-    console.log(a.host === location.host && a.pathname === location.pathname)
+
     if (a.host === location.host && a.pathname === location.pathname) {
         a.classList.add('jfkdj');
     }
